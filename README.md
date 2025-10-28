@@ -1,10 +1,8 @@
 # CS 3310 - Design and Analysis of Algorithms
 
-# Programming Assignment 2: Anagram Finder
+### Programming Assignment 3: Anagram Finder
+------------------------------------------------------------
 
-# Author: Rebecca Smith
-
-============================================================
 
 PROGRAM DESCRIPTION
 ------------------------------------------------------------
