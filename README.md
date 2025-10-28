@@ -46,4 +46,3 @@ Each group of anagrams will be printed as a list, for example:
 [tea, ate, eat]
 [lives, Elvis]
 
-============================================================
