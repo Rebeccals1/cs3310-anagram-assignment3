@@ -1,0 +1,28 @@
+============================================================
+CS 3310 - Design and Analysis of Algorithms
+Programming Assignment 2: Anagram Finder
+Author: Rebecca Smith
+Bronco ID: 012238330
+============================================================
+
+RUNTIME ANALYSIS
+------------------------------------------------------------
+Let n be the number of words in the input file, and let k be
+the maximum length of any word.
+
+For each word, the algorithm:
+    • Converts the word to a character array: O(k)
+    • Sorts the characters: O(k log k)
+    • Inserts the word into a HashMap: O(1) average case
+
+Therefore, the total running time is:
+
+    Θ(n · k log k)
+
+This represents the cost of sorting each of n words by their
+letters to create a unique signature for each anagram group.
+
+Space usage is Θ(n · k), because each word and its key are
+stored in the HashMap.
+
+============================================================
