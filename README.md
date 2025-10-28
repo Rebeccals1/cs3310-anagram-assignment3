@@ -1,7 +1,9 @@
-CS 3310 - Design and Analysis of Algorithms
-Programming Assignment 2: Anagram Finder
-Author: Rebecca Smith
-Bronco ID: 012238330
+# CS 3310 - Design and Analysis of Algorithms
+
+# Programming Assignment 2: Anagram Finder
+
+# Author: Rebecca Smith
+
 ============================================================
 
 PROGRAM DESCRIPTION
